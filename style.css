@@ -1,0 +1,17 @@
+.grid{
+    display:flex;
+    flex-flow:row wrap;
+    height:560px;
+    width:560px;
+    border:1px solid black;
+}
+
+.grid div{
+    width:70px;
+    height:70px;
+}
+
+body{
+   // background-color:aquamarine;
+
+}
